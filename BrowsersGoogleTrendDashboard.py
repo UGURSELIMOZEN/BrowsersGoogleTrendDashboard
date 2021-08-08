@@ -32,14 +32,16 @@ df.columns = ['Firefox' ,'Safari' ,'Chrome' ,'Explorer' ,'Opera']
 if (roll_means_plot == True) & (yearly_comparison_plot == False) :
     new_df = df.loc[start_date : end_date ,]
     fig , ax = plt.subplots()
-    ax = new_df.rolling(window=rolling_period).mean().plot(title="{} Month Rolling Means Plot".format(rolling_period) ,figsize=(14,6))
+    st.subheader("{} Month Rolling Means Plot".format(rolling_period))
+    ax = new_df.rolling(window=rolling_period).mean().plot(figsize=(14,6))
     ax.set_ylabel("Search Interest")
     st.pyplot()
 
 elif (roll_means_plot == False) & (yearly_comparison_plot == False) :
     new_df = df.loc[start_date : end_date ,]
     fig , ax = plt.subplots()
-    ax = new_df.plot(title="Search Interest Plot" ,figsize=(14,6))
+    st.subheader("Search Interest Plot")
+    ax = new_df.plot(figsize=(14,6))
     ax.set_ylabel("Search Interest")
     st.pyplot()
 
@@ -50,7 +52,8 @@ elif (roll_means_plot == False) & (yearly_comparison_plot == True) :
         trends_per_year.rename(columns={str(select_browser): year}, inplace=True)
         trends = pd.concat([trends, trends_per_year], axis=1)
     fig , ax = plt.subplots()
-    ax = trends.plot(title="{} Search Interest Plot".format(select_browser) , figsize = (12 ,5))
+    st.subheader("{} Search Interest Plot".format(select_browser))
+    ax = trends.plot(figsize = (12 ,5))
     ax.set_ylabel('Search Interest')
     ax.set_xlabel('Month')
     st.pyplot()
