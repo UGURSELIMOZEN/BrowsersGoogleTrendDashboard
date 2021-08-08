@@ -54,3 +54,5 @@ elif (roll_means_plot == False) & (yearly_comparison_plot == True) :
     ax.set_ylabel('Search Interest')
     ax.set_xlabel('Month')
     st.pyplot()
+
+st.sidebar.text("Built with  ❤️  Streamlit")
