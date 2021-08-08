@@ -24,4 +24,17 @@
 
 [<img alt="Open Project" src = "https://img.shields.io/badge/OPEN%20PROJECT-BROWSERS%20GOOGLE%20TREND%20DASHBOARD-brightgreen?style=for-the-badge&logo=appveyor">](https://browsersgoogletrenddashboard.herokuapp.com/)
 
+</br>
 
+##### ⚡ Dashboard 1 with search interest
+<img width="1120" heigth="720" alt="dashboard1" src="https://github.com/UGURSELIMOZEN/BrowsersGoogleTrendDashboard/blob/main/dashboard1.JPG">
+
+</br>
+
+##### ⚡ Dashboard 2 with rolling means interest
+<img width="1120" heigth="720" alt="dashboard2" src="https://github.com/UGURSELIMOZEN/BrowsersGoogleTrendDashboard/blob/main/dashboard2.JPG">
+
+</br>
+
+##### ⚡ Dashboard 3 with browser's yearly comparison
+<img width="1120" heigth="720" alt="dashboard1" src="https://github.com/UGURSELIMOZEN/BrowsersGoogleTrendDashboard/blob/main/dashboard3.JPG">
