@@ -1,6 +1,6 @@
 # BrowsersGoogleTrendDashboard
 
-#### • In this project , I developed Internet Browser's Google Trend Dashboard with Python and Streamlit , deployed to Heroku using git.
+#### • In this project , developing of  Internet Browser's Google Trend Dashboard made with Python and Streamlit , deployed to Heroku using git.
 </br>
 <p>
 <a href="https://lgtm.com/projects/g/UGURSELIMOZEN/BrowsersGoogleTrendDashboard/context:python"><img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/UGURSELIMOZEN/BrowsersGoogleTrendDashboard.svg?logo=lgtm&logoWidth=18"/></a>
