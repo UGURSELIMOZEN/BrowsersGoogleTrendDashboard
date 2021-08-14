@@ -2,11 +2,6 @@
 
 #### ⚡ In this project , developing of  Internet Browser's Google Trend Dashboard made with Python and Streamlit after that deployed to Heroku using Git.
 
-</br>
-
-#### • Project Tools
-   In this project I used Python with pandas for time series data analysis and data visualization (plot , subplot , rolling average plot , pct_change plot) 
-   for Google trend with search interest analysis.
 
 </br>
 
@@ -21,6 +16,11 @@
 #### • Project Objective
    Analyze web browser market share between 2004-2020 using Google Trends and time series manipulation.
 
+</br>
+
+#### • Project Tools
+   In this project I used Python with pandas for time series data analysis and data visualization (plot , subplot , rolling average plot , pct_change plot) 
+   for Google trend with search interest analysis.
 
 
 </br>
