@@ -19,7 +19,7 @@
 </br>
 
 #### • Project Tools
-   In this project I used Python with pandas for time series data analysis and data visualization (plot , subplot , rolling average plot , pct_change plot) 
+   In this project I used Python with pandas for time series data analysis and data visualization (plot , rolling average plot) 
    for Google trend with search interest analysis.
 
 
