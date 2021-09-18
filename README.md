@@ -46,7 +46,7 @@
 </p>
 
 [<img alt="Open Project" src = "https://img.shields.io/badge/OPEN%20PROJECT-BROWSERS%20GOOGLE%20TREND%20DASHBOARD-brightgreen?style=for-the-badge&logo=appveyor">](https://browsersgoogletrenddashboard.herokuapp.com/)
-
+##### *It may take a while to run app from Heroku server which I use free dyno hours for every months , please wait until it runs !
 </br>
 
 ##### ⚡ Dashboard 1 with search interest
